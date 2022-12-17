@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Inventory = 'qb-inventory' -- Change this to your inventory resource name
+Config.Inventory = 'lj-inventory' -- Change this to your inventory resource name
 
 Config.UsingSkills = false -- Using mz-skills
 
